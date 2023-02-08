@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "nativemod",
+  "name": "NativeMod",
+  "authors": [
+    "Anluin"
+  ],
+  "description": "Proof of concept:\nWriting Mods in Rust resp. as native libraries\n(This version works only on Linux - tested on 'Pop!_OS 22.04 LTS')",
+  "version": "0.0.1",
+  "dependencies": {
+    "game": "1.17.10"
+  }
+}
